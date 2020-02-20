@@ -111,7 +111,7 @@ Developers that move faster than average can go ahead and complete as many exerc
     *   To start the server, from a command line interface, run `http-server` in the directory where you will clone the startup repo.
     *   Open your web browser and point to localhost:PORT (the `http-server` should have outputted the number of PORT you should use)
 
-7.  Fork [Startup repository](https://github.corp.globant.com/ui-engineering/startup) to use as a base to host the project code.
+7.  Fork [Startup repository](https://github.com/eabait/startup) to use as a base to host the project code.
 
 → [index](#index)
 
@@ -163,7 +163,7 @@ Now that you know which are the three pillars of a web application's UI, it's ti
 
 <h4 id="topic0">Topic 0 - HTML & CSS Basics</h4>
 
-This topic is hosted in a different repository, you can find it in [HTML & CSS Basics](https://github.corp.globant.com/ui-engineering/html-css-lab)
+This topic is hosted in a different repository, you can find it in [HTML & CSS Basics](https://github.com/eabait/html-css-lab-copy)
 
 **Some resources**
 
